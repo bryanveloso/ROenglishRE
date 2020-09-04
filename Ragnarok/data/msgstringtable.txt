@@ -3019,7 +3019,7 @@ Swordman, Mage, Merchant, Acolyte, Thief, Archer, Expanded Classes#
 Doram#
 Summoner#
 Dominant race of Rune Midgard. Unlimited potential. Excellent adaptability to solve problems.#
-Race of Pasta continent with natural born curiosity and sparkie character.#
+A race from Lasagna with a natural born curiosity and sparkling character.#
 Possession limit is over 70%, or you have less than 10 free inventory space.#
 C#
 C#
@@ -3337,9 +3337,9 @@ Names with bad words can not be registered.#
 Go to the official website for membership.#
 TokenAgency Server connection failed#
 Billing information#
-Delete reservation#
-Cancel reservation#
-Game start#
+Delete Character#
+Cancel Deletion#
+Start Game#
 Delete#
 Character List#
 Notice#
@@ -3444,8 +3444,8 @@ The party master cannot accept the request.#
 No party can be found.#
 Party request.#
 http://rathena.org#
-¡ã#
-¡å#
+ï¿½ï¿½#
+ï¿½ï¿½#
 You're already friends#
 Can't find other party#
 You're already a friend with another character.#
