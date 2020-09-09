@@ -3248,7 +3248,7 @@ This item has been destroyed.#
 All stats have been reduced.#
 All stats reducement have been disabled.#
 OTP Password is 8 digits.#
-Integrated account#
+Enyxsis#
 Ragnarok#
 Currently service under maintenance.#
 Please enter a search term#
