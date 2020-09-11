@@ -3259,7 +3259,7 @@ There is no party member that can be delegated. Do you want to disband the party
  - Age 18+#
  - Paid server#
  - Free server#
-Smooth#
+Light#
 Normal#
 Busy#
 Crowded#
