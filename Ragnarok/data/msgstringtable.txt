@@ -3429,7 +3429,7 @@ Blocked all chats and whispers from all characters#
 Failed to block all chats and whispers from all characters#
 Allowed all chats and whispers from all characters#
 Failed to allow all chats and whispers from all characters#
-Opening#
+Service#
 Do you want to return to the login screen?#
 STR and ATK increased.#
 STR, INT, DEX and HIT increased.#
