@@ -3506,7 +3506,7 @@ Adventurer's Agency List#
 Request to join the party#
 If you are not a party leader, you can not register party at the adventurer's office.#
 You can not stop the party recruitment.#
-This is party does not exist.#
+This party does not exist.#
 Zoom Out#
 %s : Zoom Out can be turned On Off#
 Zoom Out is turned (On)#
