@@ -540,7 +540,7 @@ You paid with the Time Limit for Internet Cafe. Available time is xx hrs xx mins
 You are free for the test of Internet Cafe version .#
 You are free for the Internet Cafe version.#
 You paid on the Time Limit Website.#
-Emotion icon List#
+Emoticon List#
 /emo#
 /!#
 /?#
