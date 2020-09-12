@@ -11,6 +11,7 @@
 -- type 4 = Guide
 -- type 5 = Inn
 -- type 6 = Kafra Employee
+-- type 7 = Styling Shop
 -- For additional type support, please contact the programmer team if there any resource issues
 
 mapNPCInfoTable = {
@@ -31,6 +32,7 @@ mapNPCInfoTable = {
 		{ name = [=[Inn]=], X = 204, Y = 191, TYPE = 5 },
 		{ name = [=[Inn]=], X = 107, Y = 218, TYPE = 5, },
 		{ name = [=[Styling Shop]=], X = 76, Y = 93, TYPE = 7, },
+		{ name = [=[Stylist]=], X = 142, Y = 172, TYPE = 7, },
 	},
 -- -----------------------------------------------------------------------------
 	prt_fild05 = {
