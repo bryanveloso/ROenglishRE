@@ -1620,7 +1620,7 @@ Battle message#
 Party member's battle message#
 Experience message#
 Party member's experience message#
-Quest information#
+Quest Information#
 Battlefield message#
 #
 Casts [%s] skill.#
@@ -3398,7 +3398,7 @@ There is no block list.#
 Act#
 Rec#
 Pen#
-Quest information#
+Quest Information#
 Description#
 Monster#
 Reward#
