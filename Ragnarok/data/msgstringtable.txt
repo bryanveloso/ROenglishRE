@@ -2984,7 +2984,7 @@ The same vend shop NPC has been set up#
 Opening shop is not allowed on this location#
 Opening shop is not allowed when there is other character#
 Failed to feed pet, please close RODEX window#
-Equipment swap#
+Equipment Swap#
 Equip#
 Equipment will dissapear when refine fails#
 Equipment's refine level will be decreased when refine fails#
@@ -3108,8 +3108,8 @@ Complete#
 Incomplete#
 (Complete!)#
 (Incomplete)#
-Swap equipment#
-CHANGE#
+Swap Equipment#
+SWAP#
 Strength: ^66cc33Melee physical attack power^ffffff, Weight capacity#
 Agility: ^66cc33Attack speed^ffffff, Flee rate, Physical defense#
 Vitality: ^66cc33Maximum HP^ffffff, Physical defense, Magical defense#
