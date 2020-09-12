@@ -320,7 +320,7 @@ Shows ''Miss'' Off#
 Camera Zooming On#
 Camera Zooming Off#
 /camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
-View Skill Info#
+Skill Tooltips#
 Change Skill#
 Sprite Resolution#
 Texture Resolution#
@@ -1360,7 +1360,7 @@ Equipment information not open to the public.#
 Equipment information open to the public.#
 Check %s's Equipment Info#
 '%s's Equipment#
-Show Equip#
+Make Public#
 This service is only available for premium users.#
 Free Trial users can only hold up to 50,000 zeny.#
 Battlefield Chat has been activated.#
@@ -1537,7 +1537,7 @@ Can't be changed because of level gap#
 [%s] required '%d' amount.#
 Is now refining the value lowered.#
 Please equip [%s].#
-Battle field entrance setting#
+Battlefield Entrance Settings#
 Battlefield - [%s] you sign up?#
 Admission application complete.#
 It was unregistered and not be able to enter the state.#
@@ -1546,7 +1546,7 @@ Do you want to cancel the admission application?#
 %s has canceled Battle field admission.#
 After %s go to the Battle field. Make sure you're in stable condition. (Trading and teleportation are disabled)#
 Formal Name#
-Do you really want to go back to your savepoint?#
+Do you really want to go back to your save point?#
 Party member search#
 Message option is off the search party members.#
 10 seconds delay of party support is in effect#
@@ -2332,7 +2332,7 @@ Press buy to confirm.#
 Card Book#
 %d%% [ ( Basic 100%% + %s Server %d%% ) * Active %.1f ]#
 %d%% [ Basic 100%% + %s Server %d%% ]#
-This is PK region. Minors,Please leave immediately.#
+This is PK region. Minors, please leave immediately.#
 Fatigue#
 Health and gaming revenue is 100%.#
 Fatigue because it is now a guest of the gaming revenue is down 50 percent.Hope for the proper health#
@@ -2341,11 +2341,11 @@ Online since %d minutes#
 Online Time: %d#
 Online since %d hours and %d minutes#
 /monsterhp : Show the hp of attacked monster. On off#
-Skill points : #
-There is no response from the authentification server. Please try again#
-Please change your password#
+Skill Points: #
+There is no response from the authentification server. Please try again.#
+Please change your password.#
 http://www.ragnarok.co.kr#
-Guest access is prohibited#
+Guest access is prohibited.#
 Your System is been Shutdown, %1.2d-%1.2d-%1.2d %1.2d:%1.2d:%1.2d is the end time.#
 Selected System Shutdown is activated in your account,Time Left: %1.2d hours %1.2d minutes.#
 Replay#
@@ -2436,7 +2436,7 @@ Current Time Left:%d minutes.Charge the game for uninterrupted play.#
 Time Left: %d hours %d minutes#
 %d%% ( Basic 100%% + Internet cafe %d%% + Premium %d%% + %s Server %d%% )#
 After %d hours %d minutes, your game will be terminated.#
-This Account is permanently Banned.#
+This Account is permanently banned.#
 This Account is banned.\nTermination Time:%04d-%02d-%02d %02d:%02d #
 Mob(Tab)#
 Map(Alt)#
@@ -2770,12 +2770,12 @@ Enter zeny below 2,147,483,647.#
 Please enter at least 1 zeny.#
 You don't have any zeny.#
 Zeny Storage#
-in bank#
-on hand#
+In Bank#
+On Hand#
 Deposit#
 Withdraw#
-1 z UP#
-1 z Down#
+1z Up#
+1z Down#
 Max#
 There is no Input value#
 Insufficient zeny#
@@ -3076,7 +3076,7 @@ Play Replay File#
 P#
 Total#
 Basicinfo#
-Equip#
+Equipment#
 Item#
 Skill#
 Guild#
@@ -3236,8 +3236,8 @@ SNS will available after login.#
 Address doesn't exist.#
 Mini party windows can't be overlapped.#
 My Shop#
-BOX#
-Tip box#
+Tip Box#
+Tip Box#
 Tweet success.#
 Refine#
 Please return then select refine material again.#
@@ -3286,8 +3286,8 @@ Homunculus receives \n10% of master's experiences.#
 Rate : %d%%#
 The target isn't in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
 There is no target in attack range vicinity. Please use 'Alt + Right Click' to command Homunculus attacks a target.#
-Sell List#
-Buy List#
+Enyxsis Store#
+Your Cart#
 New#
 Popular#
 Limited Sale#
@@ -3301,10 +3301,10 @@ Charging#
 Purchase#
 https://rathena.org/board/clients/donations/#
 Item Search#
-Free points#
-Use Free points#
-Owned points#
-Update quantity#
+Free Points#
+Use Free Points#
+Owned Points#
+Update Quantity#
 Star Emperor(Girl)#
 Soul Reaper(Girl)#
 Star Emperor(Boy)#
@@ -3471,7 +3471,7 @@ You have claimed day %d reward#
 D-day#
 #
 Attendance check failed. Please try again.#
-Attendance check#
+Attendance Check#
 Currently there is no attendance check event.#
 Guild experience reaches max, You can no longer accumulate Guild EXP#
 Character experience reaches max, You can no longer accumulate Guild EXP#
